@@ -27,7 +27,7 @@
 
 .banner,
 .order-form {
-	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/fonds3.JPG') center center fixed no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/fonds2.JPG') center center fixed no-repeat;
 	background-size: cover;
 	height: 800px;
 }
